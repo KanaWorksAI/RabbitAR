@@ -1,0 +1,7 @@
+{
+  "name": "Kana Cyberpunk Rabbit AR",
+  "description": "A WebAR application that detects your hand and renders a cyberpunk rabbit model on your palm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
